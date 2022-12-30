@@ -1,0 +1,1 @@
+c.KernelSpecManager.whitelist = {'ir'}

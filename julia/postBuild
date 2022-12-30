@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir $JULIA_DEPOT_PATH/config/
+mv $HOME/*.jl $JULIA_DEPOT_PATH/config/
+rm $HOME/postBuild
